@@ -1,0 +1,1 @@
+Projeto didático para uso da ferramenta Git.
